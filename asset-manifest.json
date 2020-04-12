@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/social-cipher/static/css/main.c217aeb5.chunk.css",
+    "main.js": "/social-cipher/static/js/main.61ca94e8.chunk.js",
+    "main.js.map": "/social-cipher/static/js/main.61ca94e8.chunk.js.map",
+    "runtime-main.js": "/social-cipher/static/js/runtime-main.846b5254.js",
+    "runtime-main.js.map": "/social-cipher/static/js/runtime-main.846b5254.js.map",
+    "static/css/2.de424728.chunk.css": "/social-cipher/static/css/2.de424728.chunk.css",
+    "static/js/2.3712d95c.chunk.js": "/social-cipher/static/js/2.3712d95c.chunk.js",
+    "static/js/2.3712d95c.chunk.js.map": "/social-cipher/static/js/2.3712d95c.chunk.js.map",
+    "index.html": "/social-cipher/index.html",
+    "precache-manifest.626b55664b3742ca91d4c208abca32ac.js": "/social-cipher/precache-manifest.626b55664b3742ca91d4c208abca32ac.js",
+    "service-worker.js": "/social-cipher/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/social-cipher/static/css/2.de424728.chunk.css.map",
+    "static/css/main.c217aeb5.chunk.css.map": "/social-cipher/static/css/main.c217aeb5.chunk.css.map",
+    "static/js/2.3712d95c.chunk.js.LICENSE.txt": "/social-cipher/static/js/2.3712d95c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.846b5254.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3712d95c.chunk.js",
+    "static/css/main.c217aeb5.chunk.css",
+    "static/js/main.61ca94e8.chunk.js"
+  ]
+}
