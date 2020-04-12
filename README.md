@@ -1,5 +1,5 @@
 # Project Demo
-[Github Pages website](https://brianlunch.github.io/social-cipher/#/)
+[Github Pages website](https://brianlunch.github.io/social-cipher/#/) <br />
 [Youtube Demo](https://www.youtube.com/watch?v=CvSDZIRmINw&t=9s)
 
 # Components Used
