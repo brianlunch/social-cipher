@@ -34,38 +34,38 @@ This folder contains authReducer.js, postReducer.js and rootReducer.js. AuthRedu
 ### Components 
 This folder contains all of the components used to create the various pages, they are:
 
-GroupList.js 
+##### GroupList.js 
 Displays all groups and states whether the logged in user is a member of them groups or not. It also provides functionality to request to be part of a group and leave a group by calling methods from postActions.js
 
-GroupMembers.js 
+##### GroupMembers.js 
 Finds the logged in users group and passes the group to MemberList.js
 
-MemberList.js 
+##### MemberList.js 
 Displays all users of a group passed into it and provides functionality to remove these members from the group by calling methods from postActions.js
 
-GroupRequests.js 
+##### GroupRequests.js 
 Finds the logged in users group and passes the group to RequestList.js
 
-RequestList.js 
+##### RequestList.js 
 Displays all requests of a group passed into it and provides functionality to accept/reject these requests by calling methods from postActions.js
 
-PostForm.js 
+##### PostForm.js 
 This component creates the form in which users create a post, it has fields such as: title, content and the group in which the post is intended for. The content of the post is encrypted in this component.
 
-PostList.js 
+##### PostList.js 
 This component passes an array of all posts to postSummary.js
 
-PostSummary.js 
+##### PostSummary.js 
 Displays all the posts as bootstrap cards and also decrypts the content of the post if the logged in user is a member of the group
 
 
-SignIn.js 
+##### SignIn.js 
 Creates the form for signing in a user and calls on authActions.js to sign the user in
 
-SignUp.js 
+##### SignUp.js 
 Creates the form for signing up a user and calls on authActions.js to sign the user up
 
-TitleContainer.js 
+##### TitleContainer.js 
 Displays the app title along with a description of the web app.
 
 In the project directory, you can run:
