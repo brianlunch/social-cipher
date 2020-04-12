@@ -18,7 +18,7 @@ This File contains the all components used to create the feed page including Pos
 
 ### Group.js
 This File contains the all components used to create the group page including GroupMembers.js GroupRequests.js and GroupList.js. It positions these three components accordingly to create the feed page.
-
+<br />
 
 ### Config
 This Folder contains the configuration file firebaseConfiguration.js which contains all details necessary to connect to the firebase database.
@@ -30,7 +30,7 @@ This folder contains authActions.js which has methods for signing in users, sign
 
 #### Reducers 
 This folder contains authReducer.js, postReducer.js and rootReducer.js. AuthReducer keeps track of the application state when the user is using methods in authActions.js and postReducer keeps track of application state when the user is using methods in postActions.js. RootReducer simply combines the other two reducers. 
-
+<br />
 ### Components 
 This folder contains all of the components used to create the various pages, they are:
 
@@ -67,7 +67,7 @@ Creates the form for signing up a user and calls on authActions.js to sign the u
 
 #### TitleContainer.js 
 Displays the app title along with a description of the web app.
-
+<br /><br />
 In the project directory, you can run:
 
 ### `npm start`
